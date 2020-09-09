@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EDocument</string>
+    <string name="nfc1">nfc1</string>
+    <string name="nfc2">nfc2</string>
+</resources>
