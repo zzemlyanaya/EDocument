@@ -38,7 +38,7 @@ class AppHostApduService : HostApduService() {
         }
 
         return if (hexCommandApdu.substring(10, 24) == AID)  {
-            hexStringToByteArray(STATUS_SUCCESS)
+            "Иван Иванович Иванов;64 лет;Паспорт 6555 181781".toByteArray()
         } else {
             hexStringToByteArray(STATUS_FAILED)
         }

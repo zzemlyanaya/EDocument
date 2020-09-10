@@ -1,5 +1,26 @@
 <resources>
     <string name="app_name">EDocument</string>
-    <string name="nfc1">nfc1</string>
-    <string name="nfc2">nfc2</string>
+    <string name="nav_home">Домой</string>
+    <string name="nav_settings">Настройки</string>
+
+    <string name="prompt_login">Логин</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="keep_login">Запомнить меня </string>
+    <string name="invalid_email">Логин не может быть пустым</string>
+    <string name="invalid_password">Пароль должен содержать не менее 8 символов</string>
+
+    <string name="update">Обновить</string>
+    <string name="updated">Обновлено</string>
+    <string name="today">сегодня</string>
+    <string name="yesterday">вчера</string>
+
+    <string name="data_accessible">Данные доступны для считывания</string>
+    <string name="no_nfc_2">Данные не будут доступны для считывания</string>
+    <string name="no_nfc_1">Похоже, у вас выключен NFC</string>
+    <string name="no_server_1">Не удалось подключиться к серверу</string>
+    <string name="no_server_2">Попробуйте позже</string>
+
+    <string name="nfc1">NFC1</string>
+    <string name="nfc2">NFC2</string>
 </resources>
